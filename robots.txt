@@ -1,0 +1,12 @@
+# hexo robots.txt
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://one-cat6.github.io//sitemap.xml
+Sitemap: https://one-cat6.github.io//baidusitemap.xml
