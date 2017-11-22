@@ -8,5 +8,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://one-cat6.github.io//sitemap.xml
-Sitemap: https://one-cat6.github.io//baidusitemap.xml
+Sitemap: http://onecat.vip/sitemap.xml
+Sitemap: http://onecat.vip/baidusitemap.xml
