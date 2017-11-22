@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一条猫</title>
+  
+  <subtitle>OneCat</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-11-22T04:36:25.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>OneCat | 一条猫slogan科学养猫 责任伴宠</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>领养代替购买，关爱流浪动物，爱他请给它一个家！</title>
+    <link href="http://yoursite.com/cat.html"/>
+    <id>http://yoursite.com/cat.html</id>
+    <published>2017-11-19T12:19:27.000Z</published>
+    <updated>2017-11-22T04:36:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ojg8j426f.bkt.clouddn.com/f803aeea038d0dd182ff0ddc54acbe73.jpg" alt="enter description here"><br><a id="more"></a></p><p>不知道那么喜欢猫的你去过收容所么？看过那里猫猫渴望的眼神么？如果不是我们曾去过那里，或许我至今体会不到，那些流浪猫为了生存，有多拼命。</p><p>在收容所里，他们之中小的刚出生不久，成年的，也有十几岁的，但其共同的特点是，眼神里都还有怯怯的希望，尤其看到有人来时，像极了孤儿院的孩子，那种期望的眼神，让你觉得心酸。<br><img src="http://ojg8j426f.bkt.clouddn.com/526dd221d6a49365d80718e2cd089212.jpg" alt="enter description here"></p><p>一旦看到有人过来，这些小精灵们，会飞快的跑到栏杆边，用尽全身的力气靠向你，希望能引起你的注意，更希望你能停下脚步抚摸一下它。</p><p><img src="http://ojg8j426f.bkt.clouddn.com/d0fd0d4eced4efa1ac76db29a634e6b8.jpg" alt="enter description here"></p><p>这里每一只猫咪尽可能的去展现自己善意，博得你的好感，大概是祈求你能带走它。它们，为了生存放下戒备，放下了傲娇，所有猫咪都不顾一切的靠近你，讨好你。这样的生存法则，他们在残酷的生活中也已经领悟到。</p><p><img src="http://ojg8j426f.bkt.clouddn.com/07c46051f4fc6f659d3e53178cfd9489.jpg" alt="enter description here"></p><p>表面上看的云淡风轻，不知喵星人也是经历过多少次拒绝，才展现出看破红尘少有的一面。</p><p>但每一次有人靠近，他们又生怕错过这一个，下一次又不知能到何时。眼神总是惆怅和落寞！<br><img src="http://ojg8j426f.bkt.clouddn.com/f46e883608e3db845d277ba34f3d2e23.jpg" alt="enter description here"><br>&nbsp;<br><img src="http://ojg8j426f.bkt.clouddn.com/1cc439bafe33cdd7bf09865b026254de.jpg" alt="enter description here"><br>&nbsp;</p><p><img src="http://ojg8j426f.bkt.clouddn.com/716575f970d3485eec2b765a729c0f1b.jpg" alt="enter description here"></p><p> 请给它们一个温暖的家 ！！！！！！！！</p><iframe height="498" width="510" src="http://player.youku.com/embed/XMzE2MzI0NTcwMA==" frameborder="0" 'allowfullscreen'=""></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ojg8j426f.bkt.clouddn.com/f803aeea038d0dd182ff0ddc54acbe73.jpg&quot; alt=&quot;enter description here&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="领养代替购买" scheme="http://yoursite.com/categories/%E9%A2%86%E5%85%BB%E4%BB%A3%E6%9B%BF%E8%B4%AD%E4%B9%B0/"/>
+    
+    
+      <category term="领养代替购买" scheme="http://yoursite.com/tags/%E9%A2%86%E5%85%BB%E4%BB%A3%E6%9B%BF%E8%B4%AD%E4%B9%B0/"/>
+    
+  </entry>
+  
+</feed>
